@@ -3,7 +3,6 @@ const expect = require('chai').expect;
 
 // import adder
 const adder = require('../adder');
-
 // unit tests for our `adder` function
 describe('adder', function() {
 
